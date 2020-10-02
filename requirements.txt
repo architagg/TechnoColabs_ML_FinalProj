@@ -1,0 +1,6 @@
+numpy
+scikit-learn==0.21.3
+matplotlib
+pandas
+streamlit
+base64
